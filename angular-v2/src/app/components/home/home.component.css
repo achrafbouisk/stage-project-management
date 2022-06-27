@@ -1,0 +1,14 @@
+.addBtn{
+  /*float: right;*/
+  margin: 10px 20px;
+}
+.example-card {
+  max-width: 400px;
+}
+mat-icon{
+  font-size: 20px;
+}
+.example-card{
+    max-width: 300px;
+    margin: 20px;
+}
